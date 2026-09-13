@@ -22,7 +22,7 @@ End-to-end early-stage credit collection scorecard predicting 0-to-30+ DPD roll-
 
 ### Data & Feature Engineering
 * **Data Sources:** On-us repayment behavior, cross-industry bureau trended data, inquiry patterns, and trade composition.
-* **Variable Selection:** Filtered 300+ initial features down to core drivers using:
+* **Variable Selection:** Filtered 900+ initial features down to core drivers using:
   1. Statistical Variance Analysis
   2. Feature Importance ranking via shallow XGBoost
   3. Information Value ($IV > 0.05$)
